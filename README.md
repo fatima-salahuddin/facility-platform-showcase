@@ -1,9 +1,29 @@
-# Facility Management Platform (case study)
+<h1>Facility Management Platform</h1>
+
+<p>
+  <img src="https://img.shields.io/badge/case_study-0F172A?style=flat-square" alt="Case study">
+  <img src="https://img.shields.io/badge/status-in_production-0D9488?style=flat-square" alt="In production">
+  <img src="https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron">
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway">
+</p>
 
 An operations and finance platform I designed and built, alone, for a facility services and manpower
 company in Kuwait. It runs the company's day-to-day work: staff attendance from card readers, payroll,
 client invoicing, payables, double-entry accounting, kitchen costing, a grocery point of sale and
 automated reports. It has been in daily production use since early 2026.
+
+<table>
+  <tr>
+    <td align="center"><b>~21</b><br><sub>modules</sub></td>
+    <td align="center"><b>~480</b><br><sub>API routes</sub></td>
+    <td align="center"><b>103</b><br><sub>data models</sub></td>
+    <td align="center"><b>4</b><br><sub>integrations with hardware<br>and external systems</sub></td>
+    <td align="center"><b>1</b><br><sub>developer</sub></td>
+  </tr>
+</table>
 
 > The source code belongs to my employer and contains business data, so this repository holds the
 > write-up only. I am happy to walk through the code and a demo instance on a call.
